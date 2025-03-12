@@ -24,3 +24,30 @@ npm install
 4. Start the server using nodemon:
 ```bash
 nodemon server.js
+```
+## Usage Instructions
+PeopleAcrossEarth provides the following API endpoints:
+
+# POST /api/stories: Submit a new story.
+# GET /api/stories: Retrieve a list of stories.
+# DELETE /api/stories/:id: Delete a specific story by its ID.
+
+## Features
+Users can submit their personal stories via a simple API endpoint.
+Retrieve a list of stories from the platform.
+Delete stories as needed.
+Simple and effective way to connect people through shared experiences.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Authors/Contributors
+Muhammedamin Gebi (me)
+Reach out to me at: muhegebi2021@gmail.com
+
+## Acknowledgements
+The idea for PeopleAcrossEarth was inspired by:
+
+The book Confess by Colleen Hoover
+Humans of New York (and similar Instagram accounts that share personal stories)
+These platforms inspired me to create a place for people to share their stories and experiences globally.
