@@ -12,15 +12,15 @@ To get started with **PeopleAcrossEarth**, you'll need to have [Node.js](https:/
 
    ```bash
    git clone https://github.com/muhegebi20/PeopleAcrossEarth.git
-Navigate to the project directory:
+2. Navigate to the project directory:
 
-   ```bash
-  cd PeopleAcrossEarth
-
-Install the necessary dependencies:
-   ```bash
-   npm install
-
-Start the server using nodemon:
-   ```bash
-     nodemon server.js
+```bash
+cd PeopleAcrossEarth
+```
+3. Install the necessary dependencies:
+```bash
+npm install
+```
+4. Start the server using nodemon:
+```bash
+nodemon server.js
