@@ -28,9 +28,9 @@ nodemon server.js
 ## Usage Instructions
 PeopleAcrossEarth provides the following API endpoints:
 
-## POST /api/stories: Submit a new story.
-## GET /api/stories: Retrieve a list of stories.
-## DELETE /api/stories/:id: Delete a specific story by its ID.
+ POST /api/stories: Submit a new story.
+ GET /api/stories: Retrieve a list of stories.
+ DELETE /api/stories/:id: Delete a specific story by its ID.
 
 ## Features
 Users can submit their personal stories via a simple API endpoint.
